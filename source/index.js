@@ -60,6 +60,7 @@ export { default as eqBy } from './eqBy.js';
 export { default as eqProps } from './eqProps.js';
 export { default as equals } from './equals.js';
 export { default as evolve } from './evolve.js';
+export { default as evolve2 } from './evolve2.js';
 export { default as filter } from './filter.js';
 export { default as find } from './find.js';
 export { default as findIndex } from './findIndex.js';
